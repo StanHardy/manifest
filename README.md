@@ -16,5 +16,5 @@ To build:
 
     $ export LC_ALL=C
     $ . build/envsetup.sh
-    $ lunch bliss_h872-userdebug
+    $ lunch bliss_h870-userdebug
     $ make blissify
